@@ -12,7 +12,6 @@ rust-project.json
 *.iml
 *.o
 
-rustlings/
 
 *.swp
 target/
